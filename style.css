@@ -5,6 +5,10 @@ body {
     border-style: dashed;
     margin: 19%;
 }
+img {
+    width: 570px;
+    length: auto;
+}
 h1 {
     font-size: 40px;
     color: #dbb7ab;
