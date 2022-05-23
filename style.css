@@ -4,11 +4,13 @@ body {
     text-align: center; 
     border-style: dashed;
     margin: 19%;
+    padding-bottom: 5%;
 }
 img {
     width: 570px;
     length: auto;
 }
+
 h1 {
     font-size: 40px;
     color: #dbb7ab;
@@ -34,4 +36,10 @@ a:visited {
 }
 .list {
     color: #dbb7ab;
+}
+#ol {
+    text-align: left;
+}
+h3 {
+    font-size: 25px;
 }
